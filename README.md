@@ -1,1 +1,0 @@
-[![Board Status](https://fortude.visualstudio.com/aa2796b6-fa24-4f55-a638-9126a38c6cde/da3a7fef-6531-46a1-a243-d16feb1f56e5/_apis/work/boardbadge/549c7657-775d-4537-9aa9-4feb1dbf04c7)](https://fortude.visualstudio.com/aa2796b6-fa24-4f55-a638-9126a38c6cde/_boards/board/t/da3a7fef-6531-46a1-a243-d16feb1f56e5/Microsoft.RequirementCategory)
